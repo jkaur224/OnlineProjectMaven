@@ -1,0 +1,11 @@
+OP\pages\ContactsPage.class
+OP\pages\DealsPage.class
+ExtentReport\ExtentReporterNG.class
+OP\utilities\WebEventListener.class
+OP\pages\LoginPage.class
+OP\pages\TasksPage.class
+OP\data\dataNewContact.class
+OP\base\TestBase.class
+OP\utilities\Xls_Reader.class
+OP\pages\HomePage.class
+OP\utilities\util.class
